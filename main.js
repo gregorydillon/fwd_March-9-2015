@@ -17,7 +17,7 @@ Functions
 
 /*branch4*/
 
-[1,2,3,4,5];
+/*[1,2,3,4,5];
 ["Hello", "Goodbye","Get bent"];
 [1,true,"no",function(){}];
 
@@ -30,7 +30,7 @@ Run this.
 In the browser, get to console with ctrl-shft-J
 at > numbers
 at > greetings
-at > dataType
+at > dataType*/
 
 
 // ["hello"][0]  ** Confusing example
@@ -40,9 +40,13 @@ at > dataType
 
 /*end branch4*/
 
-// for (var i = 0; i < 10; i+=1) {
-//   alert(i);
-// }
+/*branch5 explore for statements
+*/
+for (var i = 0; i < 10; i+=1) {
+  alert(i);
+}
+/*end of branch5
+*/
 
 
 // for (var i = 0; i < numbers.length; i+=1) {
