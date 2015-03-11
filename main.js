@@ -13,3 +13,9 @@ var sayHello = function(){
 }
 
 sayHello();
+
+var saySomething = function(something){
+  alert(something);
+}
+
+saySomething("Awesome");
