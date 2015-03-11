@@ -53,7 +53,7 @@ at > dataType
 /*branch6
 */
 
-var numbers = [1,2,3,4,5];
+/*var numbers = [1,2,3,4,5];
 var greetings = ["Hello", "Goodbye","Get bent"];
 var dataType = [1,true,"no",function(){}];
 
@@ -64,62 +64,71 @@ for (var i = 0; i < greetings.length; i+=1) {
 for (var i = 0; i < numbers.length; i+=1) {
   alert(numbers[i]);
 }
-
+*/
 /*end of branch6
 */
 
 
 // numbers.push(8);
 
-
+// start of branch 7
 // another data type
 
 // object
 
-// {name:"gregory",age: 58,location:"san francisco"}
+// {name:"gregory",age:58,location:"san francisco"}
 // or more readabile
-// {
-//   name:"gregory",
-//   age: 58,
-//   location:"san francisco",
-//   siblings:"Chris","Tommy",
-// }
-
+/*{
+  name:"gregory",
+  age: 58,
+  location:"san francisco",
+  siblings:"Chris","Tommy",
+}
+*/
 // And to do stuff with it, assign it a var
 
-// var gregory =
-//   {
-//   name:"gregory",
-//   age: 58,
-//   location:"san francisco",
-//   siblings:"Chris","Tommy",
-// }
+/*var person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+*/
+var greg = {name:"Gregory",age:58,location:"San Francisco",siblings:["Tommy","Chris"]};
 
 
-// // gregory["name"]
-// // gregory["age"]
-// // gregory[siblings]
-// // gregory[siblings][0]
+/*var greg =
+  {
+  name:"Gregory",
+  age:58,
+  location:"San Francisco",
+  siblings:["Chris","Tommy"]
+  };*/
+
+/*Try this next stuff in the console
+
+gregory["name"]
+gregory["age"]
+gregory[siblings]
+gregory[siblings][0]
 
 
 
-// // gregory.name
-// // gregory.age
-// // gregory.siblings
-// // gregory.siblings[0]
+gregory.name
+gregory.age
+gregory.siblings
+gregory.siblings[0]
+*/
+
+greg.favorite_foods = ["BBQ","Italian"]
+
+// greg;
 
 
-// gregory.favorite_foods = ["BBQ","Italian"]
-
-// gregory;
-
+end of branch7
 // ------
 
-/*Creating functions*/
+/*Creating functions
 
 
 /*var sayHello = function(){
   alert('hello!!@!@')
 }
 
-sayHello();*/
+sayHello();
+*/
