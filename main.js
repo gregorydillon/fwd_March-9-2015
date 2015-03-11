@@ -15,14 +15,22 @@ Functions
 
 /*Arrays*/
 
+/*branch4*/
+
 [1,2,3,4,5];
 ["Hello", "Goodbye","Get bent"];
-[1,True,"no",function(){}];
+[1,true,"no",function(){}];
 
 
 var numbers = [1,2,3,4,5];
 var greetings = ["Hello", "Goodbye","Get bent"];
-var dataType = [1,True,"no",function(){}];
+var dataType = [1,true,"no",function(){}];
+
+Run this.
+In the browser, get to console with ctrl-shft-J
+at > numbers
+at > greetings
+at > dataType
 
 
 // ["hello"][0]  ** Confusing example
@@ -30,6 +38,7 @@ var dataType = [1,True,"no",function(){}];
 // and
 // ["hello"][0][0]
 
+/*end branch4*/
 
 // for (var i = 0; i < 10; i+=1) {
 //   alert(i);
