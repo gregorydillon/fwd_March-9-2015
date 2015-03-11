@@ -1,12 +1,12 @@
-// while (true){
-//   alert('Welcome to my worest website')
-// }
+while (true){
+  alert('Welcome to my worest website')
+}
 
 // Numbers
 // Strings
 // Booleans
 // Functions
-alert("get started");
+// alert("get started");
 
 // Arrays
 
