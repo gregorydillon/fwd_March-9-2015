@@ -40,7 +40,7 @@ at > dataType*/
 
 /*end branch4*/
 
-/*branch5 explore for statements
+/*branch 5 explore for statements
 */
 for (var i = 0; i < 10; i+=1) {
   alert(i);
