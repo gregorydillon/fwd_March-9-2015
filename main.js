@@ -1,23 +1,28 @@
-// while (true){
-//   alert('Welcome to my worest website')
-// }
+/*while (true){
+  alert('Welcome to my worest website')
+}
+*/
 
-Numbers
+/*DataType*/
+/*Numbers
 Strings
 Booleans
 Functions
+*/
+
+
 // alert("get started");
 
-// Arrays
+/*Arrays*/
 
-// [1,2,3,4,5];
-// ["Hello", "Goodbye","Get bent"];
-// [1,True,"no",function(){}];
+[1,2,3,4,5];
+["Hello", "Goodbye","Get bent"];
+[1,True,"no",function(){}];
 
 
-// var numbers = [1,2,3,4,5];
-// var greetings = ["Hello", "Goodbye","Get bent"];
-// var dataType = [1,True,"no",function(){}];
+var numbers = [1,2,3,4,5];
+var greetings = ["Hello", "Goodbye","Get bent"];
+var dataType = [1,True,"no",function(){}];
 
 
 // ["hello"][0]  ** Confusing example
