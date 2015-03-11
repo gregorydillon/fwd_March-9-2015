@@ -2,11 +2,11 @@
 //   alert('Welcome to my worest website')
 // }
 
-// Numbers
-// Strings
-// Booleans
-// Functions
-alert("get started");
+Numbers
+Strings
+Booleans
+Functions
+// alert("get started");
 
 // Arrays
 
