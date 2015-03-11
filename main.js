@@ -70,8 +70,8 @@ for (var i = 0; i < numbers.length; i+=1) {
 
 
 // numbers.push(8);
-
-// start of branch 7
+/*
+// start of branch7
 // another data type
 
 // object
@@ -120,15 +120,19 @@ greg.favorite_foods = ["BBQ","Italian"]
 // greg;
 
 
-end of branch7
+end of branch8
+*/
 // ------
 
+
+// start of branch8
+
 /*Creating functions
+Begins at 1 hour and 35 minutes
 
 
-/*var sayHello = function(){
+var sayHello = function(){
   alert('hello!!@!@')
 }
 
 sayHello();
-*/
